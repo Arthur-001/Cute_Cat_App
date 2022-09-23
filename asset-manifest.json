@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cute_Cat_App/static/css/main.b37841fe.css",
+    "main.js": "/Cute_Cat_App/static/js/main.9778a5e5.js",
+    "static/js/787.32032a02.chunk.js": "/Cute_Cat_App/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/Cute_Cat_App/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Cute_Cat_App/index.html",
+    "main.b37841fe.css.map": "/Cute_Cat_App/static/css/main.b37841fe.css.map",
+    "main.9778a5e5.js.map": "/Cute_Cat_App/static/js/main.9778a5e5.js.map",
+    "787.32032a02.chunk.js.map": "/Cute_Cat_App/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37841fe.css",
+    "static/js/main.9778a5e5.js"
+  ]
+}
