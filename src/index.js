@@ -6,7 +6,7 @@ import './index.css';
 import "tachyons"; // I added
 import reportWebVitals from './Defaults/reportWebVitals';
 // import Card from './Robot_Card';
-// import { robots } from './robots'; //! because robots is exported normally not by default we have to use jsx syntax that is {} and we put it inside brackets
+// import { cats } from './cats'; //! because cats is exported normally not by default we have to use jsx syntax that is {} and we put it inside brackets
 import CatApp from './Containers/CuteCatPageApp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

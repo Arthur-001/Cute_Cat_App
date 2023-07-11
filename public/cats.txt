@@ -1,0 +1,3 @@
+# https://www.catstxt.org/catstxt.html
+User-agent: *
+Disallow:
